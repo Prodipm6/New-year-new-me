@@ -40,3 +40,37 @@
     margin-top: 50px;
     /* margin-bottom: 170px; */
 }
+
+/* Main content section start  */
+.main-content{
+    display: flex;
+    gap: 80px;
+    padding: 0 200px;
+    margin: 130px 0;
+}
+
+.cont-img{
+    width: 400px;
+}
+
+.content-title{
+    color: #151414;
+    font-size: 40px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.content-detail{
+    color: #444343;
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+.check-mark{
+    padding-right: 5px;
+    padding-top: 10px;
+    height: 20px;
+}
+
+
+    
